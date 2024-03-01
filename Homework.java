@@ -1,6 +1,6 @@
 public class Homework {
     public static void main(String[] args) {
-        printHelloWorld(5); // Print "Hello World" 7 times
+        printHelloWorld(50); // Print "Hello World" 50 times
 
     }
   // Prints until it hits 7 times
